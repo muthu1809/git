@@ -1,1 +1,9 @@
-int value = 20
+class Calculator
+{
+public static void main(Stringp[] args)
+{
+int price = 500; 
+
+}
+
+}
