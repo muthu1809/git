@@ -1,9 +1,10 @@
 class Calculator
 {
-public static void main(Stringp[] args)
+public static void main(String[] args)
 {
 int price = 500; 
 
+int final_price = 400; 
 }
 
 }
