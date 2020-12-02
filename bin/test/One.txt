@@ -4,7 +4,10 @@ public static void main(String[] args)
 {
 int price = 500; 
 
-int discount = 200; 
+int discount = 200;
+
+Calculator calc = new Calculator(); 
+calc.add();   
 
 }
 
