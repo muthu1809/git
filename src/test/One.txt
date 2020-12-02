@@ -3,7 +3,7 @@ class Calculator
 public static void main(Stringp[] args)
 {
 int price = 500; 
-
+int discount = 200; 
 }
 
 }
