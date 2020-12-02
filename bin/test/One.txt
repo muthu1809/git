@@ -4,7 +4,8 @@ public static void main(String[] args)
 {
 int price = 500; 
 
-int final_price = 400; 
+int discount = 200; 
+
 }
 
 }
